@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: purple !important; color: white !important;">
+<nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: #723dbf !important; color: white !important;">
     <a class="navbar-brand" href="#" style="color: white !important;">Trabalho PHP</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
