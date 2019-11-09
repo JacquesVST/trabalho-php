@@ -196,7 +196,7 @@
                 <input type="submit" value="Login">
             </form>
 
-            <a href="">Forgot password?</a>
+            <a href="">Esqueceu a senha?</a>
         </div>
 
 </div>
